@@ -3,7 +3,7 @@
 module: Databases and the Web 
 
 A first year project using:
-- php
+- PHP
 - HTML
 - CSS
 - SQLite3
